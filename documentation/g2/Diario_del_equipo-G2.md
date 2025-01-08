@@ -30,7 +30,6 @@
 |------------------------------------|----------|---------------------------------|
 |Barrera Garrancho, María del Carmen | marbargar8  | marbargar8@alum.us.es      |
 | García Martínez, Carlos            |cargarmar18| cargarmar18@alum.us.es          |
-| García Sebastián, Javier           | javgarseb  | javgarseb@alum.us.es        |
 | Meana Iturri, Claudia              | clameaitu| clameaitu@alum.us.es       |
 | Pérez Gutiérrez, Lucía             | lucpergut| lucpergut@alum.us.es      |
 | Vento Conesa, Adriana              | adrvencon| adrvencon@alum.us.es     |
